@@ -1,0 +1,20 @@
+item_name,text,type,answers,values,optional,
+Instructions1,"<h1>Debrief form</h1>
+
+Thank you so much for participating in this study. THIS WILL BE REPLACED. <br><br>
+
+If you would like to withdraw your consent, please contact the lead investigator in next 3 days. After 3 days of the participation we will not be able to delete your data.<br><br>
+
+Contact for Further Information<br>
+Dr Indu Dubey<br>
+Lecturer in Psychology<br>
+Room 0.35, Hawthorn Building<br>
+Division of Psychology,<br>
+School of Applied Social Sciences,<br>
+De Montfort University,<br>
+Leicester, <br>
+UK<br>
+Phone: 0116 366 4401<br>
+Email: indu.dubey@dmu.ac.u",instruct,,,,
+Info_Accept,I understand these instructions and am happy to continue,likert,Agree,1,No,
+,,,,,,
